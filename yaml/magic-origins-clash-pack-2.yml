@@ -1,0 +1,110 @@
+---
+object: card
+id: b1e50811-048f-4dc6-a453-a5e36f3eb0a0
+oracle_id: e206842f-139b-490d-bc10-d365705ac720
+multiverse_ids: []
+tcgplayer_id: 100182
+cardmarket_id: 283445
+name: Seeker of the Way
+lang: en
+released_at: '2015-07-17'
+uri: https://api.scryfall.com/cards/b1e50811-048f-4dc6-a453-a5e36f3eb0a0
+scryfall_uri: https://scryfall.com/card/cp3/2/seeker-of-the-way?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837
+  normal: https://cards.scryfall.io/normal/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837
+  large: https://cards.scryfall.io/large/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837
+  png: https://cards.scryfall.io/png/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.png?1561757837
+  art_crop: https://cards.scryfall.io/art_crop/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837
+  border_crop: https://cards.scryfall.io/border_crop/front/b/1/b1e50811-048f-4dc6-a453-a5e36f3eb0a0.jpg?1561757837
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Creature — Human Warrior
+oracle_text: |-
+  Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+  Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Prowess
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e6177218-1e8b-488e-8a4c-ef3af130b600
+set: cp3
+set_name: Magic Origins Clash Pack
+set_type: starter
+set_uri: https://api.scryfall.com/sets/e6177218-1e8b-488e-8a4c-ef3af130b600
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acp3&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cp3?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b1e50811-048f-4dc6-a453-a5e36f3eb0a0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae206842f-139b-490d-bc10-d365705ac720&unique=prints
+collector_number: '2'
+digital: false
+rarity: uncommon
+flavor_text: '"I don''t know where my destiny lies, but I know it isn''t here."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Magali Villeneuve
+artist_ids:
+- 9e6a55ae-be4d-4c23-a2a5-135737ffd879
+illustration_id: 20b4b302-ed1a-4bad-95f0-895b9dda0fa6
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12595
+penny_rank: 1533
+prices:
+  usd: 
+  usd_foil: '0.35'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.20'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Seeker+of+the+Way&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Seeker+of+the+Way&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Seeker+of+the+Way
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/100182?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Seeker+of+the+Way&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Seeker+of+the+Way&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
